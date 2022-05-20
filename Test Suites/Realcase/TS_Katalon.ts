@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Katalon</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2a2599ac-c1bd-42b9-8156-011eacf1c518</testSuiteGuid>
+   <testCaseLink>
+      <guid>61bab385-a1dc-43b2-8afd-17daeeca5e1b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demo/DriverKatalon</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>33424341-9beb-4f57-842e-e9bd791206ac</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DB_Katalon</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>33424341-9beb-4f57-842e-e9bd791206ac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>2bf91a51-eb9a-4713-bb10-0ac4fc5b5776</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>33424341-9beb-4f57-842e-e9bd791206ac</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>35229a5c-956e-4040-aabe-c5cd0ad17b3e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

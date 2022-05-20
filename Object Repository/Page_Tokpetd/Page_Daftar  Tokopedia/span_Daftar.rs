@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Daftar</name>
+   <tag></tag>
+   <elementGuidId>0d7268e8-5259-4346-9b00-3549c0c09495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.css-1ksx3rf-unf-btn.eg8apji0 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/div[2]/div[2]/div/form/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7c28a16f-d050-4f81-bb85-90ee831095f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar</value>
+      <webElementGuid>33ebace6-afa5-46da-ac00-f6e6fd88bcca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-nuukba&quot;]/div[@class=&quot;css-1x0s3fz&quot;]/div[@class=&quot;right__container&quot;]/div[@class=&quot;css-173ke7b&quot;]/form[1]/button[@class=&quot;css-1ksx3rf-unf-btn eg8apji0&quot;]/span[1]</value>
+      <webElementGuid>0bda8039-7208-43bd-b514-e6521267197b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/div[2]/div[2]/div/form/button/span</value>
+      <webElementGuid>ee1fd66d-2221-4951-b9d5-bee08df4f5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number or Email'])[1]/following::span[1]</value>
+      <webElementGuid>fb91b315-4ce9-4e14-9668-49303b121983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau daftar dengan'])[1]/following::span[1]</value>
+      <webElementGuid>d2475f8f-f9dd-4187-b6a3-d53609a20350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dengan mendaftar, saya menyetujui'])[1]/preceding::span[1]</value>
+      <webElementGuid>6635040e-3ea8-48a8-80b2-edf8a9867dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/preceding::span[1]</value>
+      <webElementGuid>fd5fd760-5587-4606-aff2-524c7625b6be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
+      <webElementGuid>81d55140-8039-45bb-856b-419fabcea209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/span</value>
+      <webElementGuid>a805d9e1-87db-4346-b315-604e52d1189b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Daftar' or . = 'Daftar')]</value>
+      <webElementGuid>08c6fe50-fef0-4328-99ad-7a6609cf818e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

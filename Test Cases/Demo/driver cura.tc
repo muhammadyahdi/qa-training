@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>driver cura</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc8ed7a2-9184-48df-bff5-655b692c0dc7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f7c25a7-a040-45cf-8afa-19eb9bfc6c05</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8fa7996-e7e4-4bf5-b725-90643d02f7b2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f7c25a7-a040-45cf-8afa-19eb9bfc6c05</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c8fa7996-e7e4-4bf5-b725-90643d02f7b2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

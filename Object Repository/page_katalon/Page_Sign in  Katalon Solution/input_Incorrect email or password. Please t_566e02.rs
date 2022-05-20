@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Incorrect email or password. Please t_566e02</name>
+   <tag></tag>
+   <elementGuidId>2ac76656-44d3-4209-8b1f-1bfb59871898</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.sign-in-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Sign in']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0609d250-bbe7-43fc-bdac-d42d8f4078fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sign-in-btn</value>
+      <webElementGuid>71f12e46-33c6-4c5a-bb6c-3220ee962673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>1e1aa403-6916-4cd7-8a15-c9ca53017a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>bd2e0f0d-420f-4fae-8bdc-6ec662c36c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_71538058904&quot;)/div[@class=&quot;sign_up_section&quot;]/div[@class=&quot;sign_up_form&quot;]/form[@class=&quot;form_sign_up&quot;]/input[@class=&quot;sign-in-btn&quot;]</value>
+      <webElementGuid>1ca03e9c-5bf5-4dc7-a27b-64a91642c604</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Sign in']</value>
+      <webElementGuid>e29a99b2-71ee-4729-8184-b65b663a7691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_module_71538058904']/div[3]/div/form/input</value>
+      <webElementGuid>1535d7c1-7a63-4783-ae26-d8265a013332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/form/input</value>
+      <webElementGuid>51295147-fbdc-4d05-9789-dcd800de0530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>1602ff2a-1288-413e-a086-965e3de09aaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

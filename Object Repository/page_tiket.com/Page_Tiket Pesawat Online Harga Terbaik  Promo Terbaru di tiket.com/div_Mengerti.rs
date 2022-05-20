@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mengerti</name>
+   <tag></tag>
+   <elementGuidId>5ad0ef14-b33f-4581-840e-b2da42af91f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v3-btn.v3-btn__blue.list-horizontal__middle.btn-action</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[4]/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>05bbca6f-5e1a-42c1-98d7-7e71a6dbf414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v3-btn v3-btn__blue list-horizontal__middle btn-action</value>
+      <webElementGuid>50663c61-468e-43c0-be9e-b61bebadc431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mengerti</value>
+      <webElementGuid>43e7d182-f40a-467d-92c1-20765189ae85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;left-side&quot;]/div[2]/div[@class=&quot;flight&quot;]/div[@class=&quot;wrapper-new-search-result&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;col-result list-horizontal__top&quot;]/div[@class=&quot;sort row&quot;]/div[@class=&quot;col-xs-4 text-sort right&quot;]/div[1]/div[@class=&quot;comp-info-box&quot;]/div[@class=&quot;v3-btn v3-btn__blue list-horizontal__middle btn-action&quot;]</value>
+      <webElementGuid>87029d5f-1421-4ccc-b86f-66933d817401</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[4]/div[2]/div/div[2]/div/div[2]/div[2]/div[2]/div/div[2]/div[3]</value>
+      <webElementGuid>9d9b5d08-0254-466d-a566-5afd47a53a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tekan di sini untuk lihat keterangan dari istilah penting yang digunakan di tiket.com'])[1]/following::div[1]</value>
+      <webElementGuid>b19ea3a8-66a8-414c-aa07-caee98d4662e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi'])[2]/following::div[2]</value>
+      <webElementGuid>b356d80e-ec3e-40b4-986a-16b2ca69926e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urutkan'])[1]/preceding::div[1]</value>
+      <webElementGuid>66a9f8e1-a8a7-4740-880a-228370957f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekomendasi'])[1]/preceding::div[1]</value>
+      <webElementGuid>0d2d88d1-a572-4b4f-a2e5-11d5bca8c570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mengerti']/parent::*</value>
+      <webElementGuid>a6863416-5043-48eb-ae76-91eb8eca947d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div[3]</value>
+      <webElementGuid>03a82aa9-f8d9-4d37-a8c4-0cad29a1ef20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mengerti' or . = 'Mengerti')]</value>
+      <webElementGuid>dce92c20-1325-4769-9616-e73f9c2f3b77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

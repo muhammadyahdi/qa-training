@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Github</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>765e64f2-55e9-417c-9237-668a4f548ef4</testSuiteGuid>
+   <testCaseLink>
+      <guid>a4b939f8-325e-469c-8460-78f6f3d7a0bd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demo/DriverGithub</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ffacbaf4-0776-47f3-bcf2-505740b44fae</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DB_Github</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ffacbaf4-0776-47f3-bcf2-505740b44fae</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>f45fabce-fe70-4857-81f5-45cdd85a13ed</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ffacbaf4-0776-47f3-bcf2-505740b44fae</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>4f7647fe-129c-4198-a857-150b1d279aaf</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

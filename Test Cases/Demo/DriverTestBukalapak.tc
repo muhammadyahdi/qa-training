@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DriverTestBukalapak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1616fd51-2ac5-4395-a68c-0e8b8b68ed06</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3638288a-12f7-488f-aad1-5a5c9013dcd6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3638288a-12f7-488f-aad1-5a5c9013dcd6</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

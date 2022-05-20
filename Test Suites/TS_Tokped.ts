@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Tokped</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>7f2074ca-8de5-453a-8599-a410713fb392</testSuiteGuid>
+   <testCaseLink>
+      <guid>472c3f9b-5b85-4b90-acdb-98d3e7d50a78</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Demo/DriverTestTokpet</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f10f32a3-ff0f-4348-a107-3a1cde65a8a7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DB_Tokped</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f10f32a3-ff0f-4348-a107-3a1cde65a8a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>740294e3-2b96-4b70-a4ce-e70a18fcf30e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f10f32a3-ff0f-4348-a107-3a1cde65a8a7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>kode</value>
+         <variableId>f97554f2-a179-48c3-8dc2-7fde85997b94</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
